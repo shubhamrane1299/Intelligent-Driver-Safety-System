@@ -1,13 +1,19 @@
 .venv/
-__pycache__/
+**pycache**/
 *.pyc
 
-data/faces/
+yolov8s.pt
+*.pt
+
 data/users.db
+data/faces/
 
 reports/
-driver_logs.xlsx
+*.xlsx
+*.pdf
 
-yolov8s.pt
+build/
+dist/
 
+.idea/
 .vscode/
