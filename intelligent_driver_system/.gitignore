@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/faces/
+data/users.db
+
+reports/
+driver_logs.xlsx
+
+yolov8s.pt
+
+.vscode/

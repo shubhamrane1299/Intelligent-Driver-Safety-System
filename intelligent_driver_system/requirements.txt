@@ -1,0 +1,14 @@
+opencv-python
+mediapipe
+numpy==1.23.5
+tensorflow==2.10.1
+keras==2.10.0
+protobuf==3.19.6
+pillow
+pygame
+ultralytics
+face-recognition
+SpeechRecognition
+pyaudio
+cmake
+dlib
